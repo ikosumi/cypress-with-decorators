@@ -1,0 +1,24 @@
+{
+  "name": "cypress-with-decorators",
+  "version": "1.0.0",
+  "description": "A cypress project that utilizes typescript decorators for creating cypress commands",
+  "main": "index.ts",
+  "scripts": {
+    "test": "cypress verify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ikosumi/cypress-with-decorators.git"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "e2e-tests"
+  ],
+  "author": "Ilir Kosumi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikosumi/cypress-with-decorators/issues"
+  },
+  "homepage": "https://github.com/ikosumi/cypress-with-decorators#readme"
+}
