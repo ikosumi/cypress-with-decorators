@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ikosumi/cypress-with-decorators/issues"
   },
-  "homepage": "https://github.com/ikosumi/cypress-with-decorators#readme"
+  "homepage": "https://github.com/ikosumi/cypress-with-decorators#readme",
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
 }
