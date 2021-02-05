@@ -4,7 +4,8 @@
   "description": "A cypress project that utilizes typescript decorators for creating cypress commands",
   "main": "index.ts",
   "scripts": {
-    "test": "cypress verify"
+    "test": "cypress verify",
+    "cy:open": "cypress open"
   },
   "repository": {
     "type": "git",
