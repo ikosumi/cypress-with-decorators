@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ikosumi/cypress-with-decorators#readme",
   "devDependencies": {
-    "cypress": "^6.4.0"
+    "cypress": "^6.4.0",
+    "typescript": "^4.1.3"
   }
 }
